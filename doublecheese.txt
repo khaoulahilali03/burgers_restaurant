@@ -11,5 +11,7 @@ oignons
 cornichons
 ketchup
 moutarde
-
+ketchup_pierre
+mayo_pierre
 Mayo Rémi
+
